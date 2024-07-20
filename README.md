@@ -39,7 +39,9 @@ Determine how often each customer makes purchases
 
 ## Step 3 : Calculating Recency
 ###Objective: 
+
 Measure the time since each customer's last purchase.
+
 ###Process:
 >Set a reference date, typically the day after the last purchase date in the dataset.
 >Subtract the date of each customer's last purchase from the reference date to calculate the number of days since their last purchase
