@@ -13,8 +13,6 @@ Countries: Most orders from the United Kingdom, followed by Germany and France
 
 ## Column Profiling
 InvoiceNo: Unique identifier for each transaction.
-StockCode: Product code.
-Description: Product description.
 Quantity: Number of products purchased.
 InvoiceDate: Date of transaction.
 UnitPrice: Price per product.
