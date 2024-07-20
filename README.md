@@ -80,7 +80,7 @@ For each customer category, outline targeted marketing actions. Examples include
 > Hibernating: Offer relevant products and special discounts
 > Lost: Revive interest with a reach-out campaign or decide to ignore
 
-![Segmentation Visual](Segmentation image.PNG)
+![](Segmentation image.jpg)
 
 ## Conclusion
 This step-by-step data-driven analysis using the RFM model provides a structured approach to customer segmentation for the cloud kitchen. By categorizing customers based on their recency, frequency, and monetary value, targeted marketing strategies can be implemented to enhance customer engagement, retention, and overall revenue. The actionable recommendations aim to leverage the insights from this segmentation to optimize marketing efforts and drive business growth.
