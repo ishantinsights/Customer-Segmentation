@@ -1,4 +1,5 @@
 # Customer Segmentation for Cloud Kitchen using RFM Model
+[](segmentation-header-1920x1600.gif)
 
 ## Business Problem
 
