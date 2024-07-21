@@ -6,18 +6,18 @@
 A cloud kitchen aims to optimize its marketing efforts and improve customer retention. By segmenting its customers using the **Recency**, **Frequency**, **Monetary** (RFM) model, the kitchen can target marketing strategies more effectively and personalize customer engagement
 
 Dataset
-Size: 375,187 transactions
-Unique Customers: 4,311
-Unique Orders: 18,224
-Countries: Most orders from the United Kingdom, followed by Germany and France
+- Size: 375,187 transactions
+- Unique Customers: 4,311
+- Unique Orders: 18,224
+- Countries: Most orders from the United Kingdom, followed by Germany and France
 
 ## Column Profiling
-InvoiceNo: Unique identifier for each transaction.
-Quantity: Number of products purchased.
-InvoiceDate: Date of transaction.
-UnitPrice: Price per product.
-CustomerID: Unique identifier for each customer.
-Country: Country of the customer
+- InvoiceNo: Unique identifier for each transaction
+- Quantity: Number of food items purchased
+- InvoiceDate: Date of transaction
+- UnitPrice: Price per food item
+- CustomerID: Unique identifier for each customer
+- Country: Country of the customer
 
 ## Step 1 : Calculating Monetary Value
 ### Objective:
@@ -71,15 +71,15 @@ Provide specific marketing actions based on customer segments.
 ### Process:
 For each customer category, outline targeted marketing actions. Examples include:
 > Champions: Reward and engage them as brand promoters.
-> Loyal Customers: Upsell higher value products and seek reviews.
-> Potential Loyalists: Offer loyalty programs and recommendations.
-> Recent Customers: Build early relationships.
-> Promising: Increase brand awareness and offer trials.
-> Customers Needing Attention: Provide limited-time offers and personalized recommendations.
-> About To Sleep: Recommend best-seller products and offer discounts.
-> At Risk: Reconnect with personalized emails and renewal offers.
-> Cannot Lose Them: Win back with new products and engagement
-> Hibernating: Offer relevant products and special discounts
+> Loyal Customers: Upsell high ticket size food items and seek reviews.
+> Potential Loyalists: Provide incentives to join your loyalty program and Send personalized food recommendations based on their past orders
+> Recent Customers: Send a welcome email with a discount on their next order & introduce them to your best-selling items
+> Promising: Share stories about your brand and the quality of your food & Offer trial discounts 
+> Customers Needing Attention: Send time-sensitive discounts to encourage immediate action & recommend products based on their past orders
+> About To Sleep: Highlight popular menu items and limited-time offers and provide special discounts to re-engage them
+> At Risk: Send personalized emails addressing their preferences and previous orders
+> Cannot Lose Them: Introduce them to new menu items or seasonal specials & engage them through personalized messages and exclusive offers
+> Hibernating: Offer relevant products that align with thier past preferences and special discounts
 > Lost: Revive interest with a reach-out campaign or decide to ignore
 
 
