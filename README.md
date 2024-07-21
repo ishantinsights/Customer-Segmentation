@@ -70,13 +70,13 @@ Segment customers based on their RFM scores.
 Provide specific marketing actions based on customer segments.
 ### Process:
 For each customer category, outline targeted marketing actions. Examples include:
-> Champions: Reward and engage them as brand promoters
+> Champions: Offer exclusive deals and first hand information of new food items added in menu. Share testimonials of these customers over social media
 
 > Loyal Customers: Upsell high ticket size food items and seek reviews
 
 > Potential Loyalists: Provide incentives to join your loyalty program and Send personalized food recommendations based on their past orders
  
-> Recent Customers: Send a welcome email with a discount on their next order & introduce them to your best-selling items
+> Recent Customers: Send a welcome email with a discount on their next order & introduce them to your best-selling food items
 
 > Promising: Share stories about your brand and the quality of your food & Offer trial discounts
 
